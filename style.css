@@ -1,0 +1,28 @@
+
+body{
+  background: url(children3.jpg);
+  background-size: cover;
+}
+.flex{
+  font-size: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+.ml-4{
+	background-color: white;
+	border-radius: 30px;
+	font-size: 30px;
+	color: white;
+	padding: 15px 20px;
+}
+.ml-4:hover{
+	color: red;
+}
+.title-font{
+	color: white;
+}
+.mr-5{
+	color: white;
+}
